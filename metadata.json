@@ -1,0 +1,6 @@
+{
+  "name": "VoltPath",
+  "description": "Advanced telemetry and predictive intelligence dashboard for the Tata Nexon EV Max in India, featuring real-time state of health monitoring, driving analysis, charging optimization, and trip planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
