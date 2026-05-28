@@ -1,4 +1,4 @@
-#**VoltPath — EV Battery Digital Twin & Range Intelligence**
+## VoltPath — EV Battery Digital Twin & Range Intelligence
 
 
 🚀 Key Features
@@ -24,10 +24,12 @@ Primary Palette: Deep Space Navy surfaces with Electric Cyan accents for critica
 Typography: Inter (Sans-serif) for maximum legibility of dense data.
 Visual Style: Digital twin wireframes, glowing data vectors, and glassmorphic containers.
 🛠 Technical Stack (Conceptual)
-Frontend: HTML5, Tailwind CSS, JavaScript (ES6+).
-Data Visualization: Custom SVG-based charting and Radar vectors.
-Mapping: Dark-themed satellite tiles with custom SVG telemetry overlays.
-View your app in AI Studio: https://ai.studio/apps/c41d511f-429e-4957-81bb-3a3a1902872b
+**Frontend**: HTML5, Tailwind CSS, JavaScript (ES6+).
+**Data Visualization:** Custom SVG-based charting and Radar vectors.
+**Mapping:** Dark-themed satellite tiles with custom SVG telemetry overlays.
+
+
+View our app in AI Studio: https://ai.studio/apps/c41d511f-429e-4957-81bb-3a3a1902872b
 
 ## Run Locally
 
