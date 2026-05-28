@@ -1,4 +1,6 @@
 **VoltPath — EV Battery Digital Twin & Range Intelligence**
+
+
 🚀 Key Features
 🔹 Digital Twin Dashboard
 Real-time synchronization with vehicle telemetry. Compare "True Predicted Range" against EPA/WLTP estimates. Monitor cell-group voltages and thermal distribution across the pack.
