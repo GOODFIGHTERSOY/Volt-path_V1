@@ -29,7 +29,7 @@ Visual Style: Digital twin wireframes, glowing data vectors, and glassmorphic co
 **Mapping:** Dark-themed satellite tiles with custom SVG telemetry overlays.
 
 
-View our app in AI Studio: https://ai.studio/apps/c41d511f-429e-4957-81bb-3a3a1902872b
+View our app in AI Studio: https://voltpath-902797606062.asia-southeast1.run.app
 
 ## Run Locally
 
